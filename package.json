@@ -1,0 +1,8 @@
+{
+  "name": "infinite-scroll",
+  "version": "1.0.0",
+  "description": "InfiniteScroll table for React",
+  "main": "InfiniteScroll.jsx",
+  "author": "Guillaume VanderEst <guillaume@vanderest.org>",
+  "license": "MIT"
+}
